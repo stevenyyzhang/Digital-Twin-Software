@@ -16,6 +16,12 @@ Dependencies retain their respective licenses. They are installed separately,
 not vendored into this repository. The software license does not relicense
 third-party models, imagery, or databases.
 
+The Windows portable release additionally bundles Python and the installed
+dependencies. Python's license is at `runtime/LICENSE.txt`; dependency license
+files are retained in their package directories and `runtime/Lib/site-packages`
+metadata directories (including `.dist-info/licenses` where supplied).
+These licenses remain applicable independently of this project's software license.
+
 ## Hong Kong scene data
 
 © The Government of the Hong Kong Special Administrative Region.

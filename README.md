@@ -36,6 +36,12 @@
 
 ## Windows 安装与启动
 
+### 便携版：无需安装 Python
+
+前往 [GitHub Releases](https://github.com/stevenyyzhang/Digital-Twin-Software/releases/latest)，下载 `Digital-Twin-Studio-v0.1.0-Windows-x64.zip`，完整解压到可写目录后双击 **`start.bat`**。便携版内置 Python 和应用依赖，无需运行安装脚本或首次联网下载依赖。电脑仍需支持 CUDA 的 NVIDIA 显卡和兼容驱动；请不要直接在 ZIP 内运行。首次启动会生成本地缓存。
+
+### 源码版
+
 当前本地验证环境为 Windows、64 位 Python 3.12、支持 CUDA 的 NVIDIA 显卡及有效驱动。其他平台与纯 CPU 模式尚未针对本定制版本验证。
 
 1. 安装 **64 位 Python 3.12**（包含 Python Launcher）和 NVIDIA 显卡驱动。

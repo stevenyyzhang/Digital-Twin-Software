@@ -36,6 +36,12 @@ The stacked slices are samples of a 3D field, not a continuously solved volume. 
 
 ## Run on Windows
 
+### Portable edition: no Python installation
+
+Open [GitHub Releases](https://github.com/stevenyyzhang/Digital-Twin-Software/releases/latest), download `Digital-Twin-Studio-v0.1.0-Windows-x64.zip`, extract the entire archive to a writable folder, and double-click **`start.bat`**. Python and application dependencies are bundled; no setup script or first-run dependency download is required. An NVIDIA CUDA-capable GPU and compatible driver are still required. Do not run inside the ZIP. The first launch generates local caches.
+
+### Source edition
+
 The validated development environment is Windows with Python 3.12 (64-bit), an NVIDIA CUDA-capable GPU, and a working NVIDIA driver. Other platforms and CPU-only use have not been validated for this customized application.
 
 1. Install **Python 3.12 (64-bit)**, including the Python Launcher, and an NVIDIA GPU driver.

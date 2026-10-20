@@ -1,6 +1,14 @@
 # Quick start
 
-## Install
+## Portable download
+
+Download the Windows x64 ZIP from [GitHub Releases](https://github.com/stevenyyzhang/Digital-Twin-Software/releases/latest).
+Extract it completely to a writable folder and double-click `start.bat`.
+Python and dependencies are included; skip the source-install steps below.
+You still need a compatible NVIDIA GPU and driver. The included
+`START_HERE.txt` describes this edition. A SHA-256 checksum accompanies the ZIP.
+
+## Install from source
 
 Install Python 3.12 x64 (including the Python Launcher) and an NVIDIA GPU driver.
 Download the repository using **Code → Download ZIP**, extract the entire
