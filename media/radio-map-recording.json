@@ -1,0 +1,1340 @@
+{
+  "primary_screen": [
+    3840,
+    2160
+  ],
+  "framebuffer": [
+    3840,
+    2054
+  ],
+  "ui_scale": 1.5,
+  "fps": 24,
+  "actions": "actual mouse/keyboard input",
+  "events": [
+    {
+      "kind": "stage",
+      "at": 0.03100000007543713,
+      "text": "Scene selection"
+    },
+    {
+      "kind": "progress",
+      "at": 3.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 6.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 9.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 12.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 15.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 18.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 21.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 24.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 27.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "click",
+      "at": 29.45299999997951,
+      "xy": [
+        487.0,
+        218.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 30.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 33.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 36.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 39.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "click",
+      "at": 39.20299999997951,
+      "xy": [
+        194.0,
+        264.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 42.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 45.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 48.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 51.0,
+      "stage": "Scene selection",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "stage",
+      "at": 51.5,
+      "text": "02 | Place the base station on a rooftop"
+    },
+    {
+      "kind": "progress",
+      "at": 54.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 57.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 60.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "click",
+      "at": 60.07799999997951,
+      "xy": [
+        259.0,
+        326.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 63.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 66.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 69.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 72.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "click",
+      "at": 72.125,
+      "xy": [
+        2166.0,
+        236.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 75.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 78.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 81.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 84.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 87.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 90.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 93.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 96.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 99.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 102.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 105.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 108.0,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "click",
+      "at": 109.20299999997951,
+      "xy": [
+        2055.0,
+        701.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 111.01500000001397,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 114.01500000001397,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 117.01500000001397,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 120.01500000001397,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 123.01500000001397,
+      "stage": "02 | Place the base station on a rooftop",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "stage",
+      "at": 124.20299999997951,
+      "text": "Scene selection"
+    },
+    {
+      "kind": "stage",
+      "at": 124.21799999999348,
+      "text": "03 | Method 1: Aim - click a target in the scene"
+    },
+    {
+      "kind": "progress",
+      "at": 126.01500000001397,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 129.03100000007544,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 132.03100000007544,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 135.03100000007544,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "click",
+      "at": 136.28100000007544,
+      "xy": [
+        150.0,
+        474.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 138.03100000007544,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 141.03100000007544,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 144.03100000007544,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "progress",
+      "at": 147.03100000007544,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 24,
+      "refining": false,
+      "samples": []
+    },
+    {
+      "kind": "click",
+      "at": 148.4220000000205,
+      "xy": [
+        1837.0,
+        896.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 150.03100000007544,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": true,
+      "samples": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 153.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": true,
+      "samples": [
+        1255940,
+        1255940,
+        1255940,
+        1255940,
+        1255940,
+        1255940
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 156.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": true,
+      "samples": [
+        2511880,
+        2511880,
+        2511880,
+        2511880,
+        2511880,
+        2260692
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 159.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": true,
+      "samples": [
+        3767820,
+        3767820,
+        3767820,
+        3767820,
+        3516632,
+        3516632
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 162.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": true,
+      "samples": [
+        5023760,
+        5023760,
+        5023760,
+        4772572,
+        4772572,
+        4772572
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 165.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": true,
+      "samples": [
+        6279700,
+        6279700,
+        6028512,
+        6028512,
+        6028512,
+        6028512
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 168.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": true,
+      "samples": [
+        7535640,
+        7284452,
+        7284452,
+        7284452,
+        7284452,
+        7284452
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 171.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 174.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 177.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 180.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 183.0470000000205,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 186.06200000003446,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 189.0779999999795,
+      "stage": "03 | Method 1: Aim - click a target in the scene",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "stage",
+      "at": 190.26500000001397,
+      "text": "04 | Method 2: Select beam - choose a tile on the sphere"
+    },
+    {
+      "kind": "progress",
+      "at": 192.0779999999795,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 195.0779999999795,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 198.0779999999795,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 201.0779999999795,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 204.0779999999795,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 207.0779999999795,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 210.0779999999795,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "click",
+      "at": 211.14000000001397,
+      "xy": [
+        390.0,
+        474.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 213.09299999999348,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 216.10900000005495,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 219.10900000005495,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 222.125,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 116,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "click",
+      "at": 223.39000000001397,
+      "xy": [
+        322.0,
+        840.0
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 225.125,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": true,
+      "samples": [
+        502376,
+        502376,
+        502376,
+        502376,
+        502376,
+        251188
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 228.125,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": true,
+      "samples": [
+        1758316,
+        1758316,
+        1758316,
+        1507128,
+        1507128,
+        1507128
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 231.15600000007544,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": true,
+      "samples": [
+        3014256,
+        3014256,
+        2763068,
+        2763068,
+        2763068,
+        2763068
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 234.15600000007544,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": true,
+      "samples": [
+        4019008,
+        4019008,
+        4019008,
+        4019008,
+        4019008,
+        3767820
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 237.15600000007544,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": true,
+      "samples": [
+        5274948,
+        5274948,
+        5023760,
+        5023760,
+        5023760,
+        5023760
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 240.15600000007544,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": true,
+      "samples": [
+        6279700,
+        6279700,
+        6279700,
+        6279700,
+        6279700,
+        6279700
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 243.15600000007544,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": true,
+      "samples": [
+        7535640,
+        7535640,
+        7535640,
+        7535640,
+        7284452,
+        7284452
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 246.15600000007544,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 249.15600000007544,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 252.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 255.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 258.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 261.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 264.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 267.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 270.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 273.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "progress",
+      "at": 276.1720000000205,
+      "stage": "04 | Method 2: Select beam - choose a tile on the sphere",
+      "scene": "polyu-stylized",
+      "beam": 177,
+      "refining": false,
+      "samples": [
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000,
+        8000000
+      ]
+    },
+    {
+      "kind": "stage",
+      "at": 278.76500000001397,
+      "text": "Scene selection"
+    }
+  ],
+  "editing": {
+    "segments": [
+      {
+        "source_start": 27.5,
+        "source_end": 32,
+        "speed": 1,
+        "caption": "01  Select the PolyU campus scene"
+      },
+      {
+        "source_start": 37.5,
+        "source_end": 42,
+        "speed": 1,
+        "caption": "01  Select the PolyU campus scene"
+      },
+      {
+        "source_start": 58.5,
+        "source_end": 63,
+        "speed": 1,
+        "caption": "02  Place TX: click the button, then a rooftop"
+      },
+      {
+        "source_start": 107.5,
+        "source_end": 113,
+        "speed": 1,
+        "caption": "02  Place TX: click the button, then a rooftop"
+      },
+      {
+        "source_start": 134.5,
+        "source_end": 139,
+        "speed": 1,
+        "caption": "03  Method 1: Aim - activate target selection"
+      },
+      {
+        "source_start": 146.5,
+        "source_end": 152,
+        "speed": 1,
+        "caption": "03  Method 1: click a target in the 3D scene"
+      },
+      {
+        "source_start": 152,
+        "source_end": 172,
+        "speed": 4,
+        "caption": "Automatic calculation - 4x playback"
+      },
+      {
+        "source_start": 172,
+        "source_end": 177,
+        "speed": 1,
+        "caption": "Ready: all six heights overlaid | 3 m cells | 8M samples / height"
+      },
+      {
+        "source_start": 209.5,
+        "source_end": 215,
+        "speed": 1,
+        "caption": "04  Method 2: Select beam - open the beam sphere"
+      },
+      {
+        "source_start": 221.5,
+        "source_end": 226,
+        "speed": 1,
+        "caption": "04  Method 2: click a discrete beam tile"
+      },
+      {
+        "source_start": 226,
+        "source_end": 247,
+        "speed": 4,
+        "caption": "Automatic recalculation - 4x playback"
+      },
+      {
+        "source_start": 247,
+        "source_end": 253,
+        "speed": 1,
+        "caption": "Ready: beam direction updated and all six heights overlaid"
+      }
+    ],
+    "output_dimensions": [
+      3840,
+      2054
+    ],
+    "ui_rescaled": false,
+    "note": "Idle pauses removed. Only calculation sections are accelerated 4x. Real mouse/keyboard input; no application-state scripting.",
+    "credits_seconds": 6
+  },
+  "estimated_capture_frames": 6690,
+  "capture_elapsed_seconds": 278.75,
+  "output": {
+    "frames": 1580,
+    "fps": 24,
+    "duration_seconds": 65.83333333333333,
+    "width": 3840,
+    "height": 2054,
+    "bytes": 12852123,
+    "full_decode_verified": true
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "status": "verified_against_original_official_FBX_geometry",
+  "source": "Hong Kong Lands Department 3D Visualisation Map (Individualised models)",
+  "source_url": "https://portal.csdi.gov.hk/csdi-webpage/dataset/landsd_rcd_1671676915450_88604",
+  "coordinate_policy": "XY translated by local origin only; original FBX Z preserved; no vertical scaling or offset.",
+  "real_world_survey_calibration": false,
+  "correction": "Removed synthetic Demo antenna mast (12 m) mistakenly merged into RF/display buildings.",
+  "removed_top_z_m": 99.31300354003906,
+  "original_building_geometry_max_z_m": 87.68881225585938,
+  "original_buildings_verified": 70,
+  "import_vertical_error_m": 0.0,
+  "ground_status": "Schematic auxiliary surfaces; not surveyed terrain.",
+  "planning_reference": {
+    "url": "https://www.tpb.gov.hk/en/uploads/MPC/general/S_K1_28_MainPaper.pdf",
+    "page": 2,
+    "heights_mPD": {
+      "Li Ka Shing Tower": 82.8,
+      "Lee Shau Kee Building": 70.0,
+      "Jockey Club Innovation Tower": 63.3
+    },
+    "reconciliation": "Planning heights and full geometry maxima have different/undetermined scope. No unsupported rescaling applied."
+  },
+  "mesh_sha256": {
+    "radio-white.ply": "8d5c730324e65e671f7bd6555d59a61c02dda54112564c4488b69b305fd6f355",
+    "soft-white.ply": "88deed5bac6a8550c597007a14063a321e034a8d56ffd2ac9aa64aca4963aef8"
+  }
+}

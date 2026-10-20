@@ -1,0 +1,102 @@
+<scene version="2.1.0">
+  <bsdf type="itu-radio-material" id="brick">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.55 0.38 0.34" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-brick">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-brick.ply" />
+    <ref name="bsdf" id="brick" />
+  </shape>
+  <bsdf type="itu-radio-material" id="brick_light">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.64 0.48 0.41" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-brick_light">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-brick_light.ply" />
+    <ref name="bsdf" id="brick_light" />
+  </shape>
+  <bsdf type="itu-radio-material" id="roof">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.68 0.72 0.69" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-roof">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-roof.ply" />
+    <ref name="bsdf" id="roof" />
+  </shape>
+  <bsdf type="itu-radio-material" id="white">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.79 0.82 0.79" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-white">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-white.ply" />
+    <ref name="bsdf" id="white" />
+  </shape>
+  <bsdf type="itu-radio-material" id="glass">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.3 0.42 0.47" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-glass">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-glass.ply" />
+    <ref name="bsdf" id="glass" />
+  </shape>
+  <bsdf type="itu-radio-material" id="ground">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.7 0.76 0.73" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-ground">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-ground.ply" />
+    <ref name="bsdf" id="ground" />
+  </shape>
+  <bsdf type="itu-radio-material" id="plaza">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.75 0.7 0.6" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-plaza">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-plaza.ply" />
+    <ref name="bsdf" id="plaza" />
+  </shape>
+  <bsdf type="itu-radio-material" id="road">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.29 0.36 0.39" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-road">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-road.ply" />
+    <ref name="bsdf" id="road" />
+  </shape>
+  <bsdf type="itu-radio-material" id="lawn">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.36 0.51 0.42" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-lawn">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-lawn.ply" />
+    <ref name="bsdf" id="lawn" />
+  </shape>
+  <bsdf type="itu-radio-material" id="water">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.25 0.53 0.61" />
+    <float name="thickness" value=".1" />
+  </bsdf>
+  <shape type="ply" id="mesh-campus-water">
+    <boolean name="face_normals" value="true" />
+    <string name="filename" value="meshes/radio-water.ply" />
+    <ref name="bsdf" id="water" />
+  </shape>
+</scene>

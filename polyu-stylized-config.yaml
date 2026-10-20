@@ -1,0 +1,56 @@
+title: "Digital Twin Studio"
+demo_mode: true
+scene_filename: polyu-stylized/scene.xml
+create_example_scenario: false
+background_color: [0.75, 0.88, 0.94]
+gui_mode: FULL
+use_vsync: true
+tx_array:
+  num_rows: 8
+  num_cols: 8
+  horizontal_spacing: 0.5
+  vertical_spacing: 0.5
+  pattern_i: 3
+rx_array:
+  num_rows: 1
+  num_cols: 1
+  pattern_i: 0
+rendering:
+  # Baked PolyU lighting for responsive interaction; RF still uses ray tracing.
+  mode: RASTERIZATION
+  default_slice_plane_enabled: false
+  default_resolution: [1600, 1000]
+  relative_resolution: 1.0
+  spp_per_frame: 8
+  max_accumulated_spp: 512
+  use_denoiser: true
+  envmap_factor: 0.55
+radio_map:
+  coverage_domain: air
+  air_height_mode: buildings
+  air_heights: [20.0, 40.0, 60.0]  # fallback only; derived from geometry at load
+  auto_update: false
+  accumulate_max_samples_per_tx: 8000000
+  # XY extent only; actual measurement Z follows named outdoor ground meshes.
+  height_above_ground: 1.5
+  coverage_mode: current
+  max_samples_per_beam: 250000
+  center: [0.0, 52.5, 12.4]
+  orientation: [0.0, 0.0, 0.0]
+  size: [420.0, 535.0]
+  cell_size: [3.0, 3.0]
+  log_samples_per_it: 5.4
+  color_map: turbo
+  vmin: -120
+  vmax: -40
+  diffuse_reflection: false
+  refraction: false
+paths:
+  auto_update: true
+  compute_cir: true
+  min_update_delay_s: 0.25
+  samples_per_src: 300000
+  max_num_paths_per_src: 1000000
+
+
+

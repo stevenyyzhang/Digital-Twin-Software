@@ -1,0 +1,11 @@
+{
+  "description": "Low courtyard/podium finish surfaces are grouped into the roof material in this model. Include only nearly horizontal visible roof faces directly above the named plaza support, within 0.8 m. Elevated building roofs remain excluded.",
+  "ground_overlays": [
+    {
+      "surface": "mesh-campus-roof",
+      "support": "mesh-campus-plaza",
+      "max_vertical_gap_m": 0.8,
+      "min_abs_normal_z": 0.95
+    }
+  ]
+}

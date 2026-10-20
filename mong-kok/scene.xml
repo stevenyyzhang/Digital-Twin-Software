@@ -1,0 +1,74 @@
+<scene version="2.1.0">
+  <bsdf type="itu-radio-material" id="terrain-ground">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.62 0.68 0.61" />
+    <float name="thickness" value=".2" />
+  </bsdf>
+  <shape type="ply" id="mesh-site-terrain-ground">
+    <string name="filename" value="meshes/radio-terrain-ground.ply" />
+    <ref name="bsdf" id="terrain-ground" />
+  </shape>
+  <bsdf type="itu-radio-material" id="brick">
+    <string name="type" value="brick" />
+    <rgb name="color" value="0.76 0.53 0.43" />
+    <float name="thickness" value=".2" />
+  </bsdf>
+  <shape type="ply" id="mesh-site-brick">
+    <string name="filename" value="meshes/radio-brick.ply" />
+    <ref name="bsdf" id="brick" />
+  </shape>
+  <bsdf type="itu-radio-material" id="sand">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.88 0.81 0.66" />
+    <float name="thickness" value=".2" />
+  </bsdf>
+  <shape type="ply" id="mesh-site-sand">
+    <string name="filename" value="meshes/radio-sand.ply" />
+    <ref name="bsdf" id="sand" />
+  </shape>
+  <bsdf type="itu-radio-material" id="white">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.87 0.91 0.89" />
+    <float name="thickness" value=".2" />
+  </bsdf>
+  <shape type="ply" id="mesh-site-white">
+    <string name="filename" value="meshes/radio-white.ply" />
+    <ref name="bsdf" id="white" />
+  </shape>
+  <bsdf type="itu-radio-material" id="blue">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.58 0.73 0.78" />
+    <float name="thickness" value=".2" />
+  </bsdf>
+  <shape type="ply" id="mesh-site-blue">
+    <string name="filename" value="meshes/radio-blue.ply" />
+    <ref name="bsdf" id="blue" />
+  </shape>
+  <bsdf type="itu-radio-material" id="sage">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.68 0.78 0.66" />
+    <float name="thickness" value=".2" />
+  </bsdf>
+  <shape type="ply" id="mesh-site-sage">
+    <string name="filename" value="meshes/radio-sage.ply" />
+    <ref name="bsdf" id="sage" />
+  </shape>
+  <bsdf type="itu-radio-material" id="roof">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.65 0.73 0.76" />
+    <float name="thickness" value=".2" />
+  </bsdf>
+  <shape type="ply" id="mesh-site-roof">
+    <string name="filename" value="meshes/radio-roof.ply" />
+    <ref name="bsdf" id="roof" />
+  </shape>
+  <bsdf type="itu-radio-material" id="infrastructure">
+    <string name="type" value="concrete" />
+    <rgb name="color" value="0.64 0.69 0.71" />
+    <float name="thickness" value=".2" />
+  </bsdf>
+  <shape type="ply" id="mesh-site-infrastructure">
+    <string name="filename" value="meshes/radio-infrastructure.ply" />
+    <ref name="bsdf" id="infrastructure" />
+  </shape>
+</scene>

@@ -1,0 +1,129 @@
+[
+  {
+    "mesh": "meshes/terrain-0.ply",
+    "texture": "textures/ground-0.png",
+    "color": [
+      0.68,
+      0.73,
+      0.65
+    ],
+    "face_normals": true
+  },
+  {
+    "mesh": "meshes/terrain-1.ply",
+    "texture": "textures/ground-1.png",
+    "color": [
+      0.68,
+      0.73,
+      0.65
+    ],
+    "face_normals": true
+  },
+  {
+    "mesh": "meshes/terrain-2.ply",
+    "texture": "textures/ground-2.png",
+    "color": [
+      0.68,
+      0.73,
+      0.65
+    ],
+    "face_normals": true
+  },
+  {
+    "mesh": "meshes/terrain-3.ply",
+    "texture": "textures/ground-3.png",
+    "color": [
+      0.68,
+      0.73,
+      0.65
+    ],
+    "face_normals": true
+  },
+  {
+    "mesh": "meshes/real-brick.ply",
+    "texture": null,
+    "color": [
+      0.78,
+      0.64,
+      0.52
+    ],
+    "face_normals": false,
+    "original_material": "principled"
+  },
+  {
+    "mesh": "meshes/real-sand.ply",
+    "texture": null,
+    "color": [
+      0.91,
+      0.85,
+      0.7
+    ],
+    "face_normals": false,
+    "original_material": "principled"
+  },
+  {
+    "mesh": "meshes/real-white.ply",
+    "texture": null,
+    "color": [
+      0.94,
+      0.93,
+      0.88
+    ],
+    "face_normals": false,
+    "original_material": "principled"
+  },
+  {
+    "mesh": "meshes/real-blue.ply",
+    "texture": null,
+    "color": [
+      0.62,
+      0.76,
+      0.81
+    ],
+    "face_normals": false,
+    "original_material": "principled"
+  },
+  {
+    "mesh": "meshes/real-sage.ply",
+    "texture": null,
+    "color": [
+      0.7,
+      0.79,
+      0.67
+    ],
+    "face_normals": false,
+    "original_material": "principled"
+  },
+  {
+    "mesh": "meshes/real-roof.ply",
+    "texture": null,
+    "color": [
+      0.74,
+      0.78,
+      0.79
+    ],
+    "face_normals": false,
+    "original_material": "principled"
+  },
+  {
+    "mesh": "meshes/real-glass.ply",
+    "texture": null,
+    "color": [
+      0.43,
+      0.63,
+      0.68
+    ],
+    "face_normals": false,
+    "original_material": "principled"
+  },
+  {
+    "mesh": "meshes/real-infrastructure.ply",
+    "texture": null,
+    "color": [
+      0.64,
+      0.69,
+      0.71
+    ],
+    "face_normals": false
+  }
+]

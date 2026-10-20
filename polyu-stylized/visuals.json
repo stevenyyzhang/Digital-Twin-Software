@@ -1,0 +1,102 @@
+[
+  {
+    "mesh": "meshes/real-soft-brick.ply",
+    "color": [
+      0.82,
+      0.54,
+      0.49
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-brick_light.ply",
+    "color": [
+      0.92,
+      0.72,
+      0.62
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-roof.ply",
+    "color": [
+      0.8,
+      0.85,
+      0.88
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-white.ply",
+    "color": [
+      0.96,
+      0.96,
+      0.93
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-glass.ply",
+    "color": [
+      0.39,
+      0.66,
+      0.72
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-ground.ply",
+    "color": [
+      0.83,
+      0.88,
+      0.91
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-plaza.ply",
+    "color": [
+      0.91,
+      0.78,
+      0.73
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-road.ply",
+    "color": [
+      0.48,
+      0.57,
+      0.67
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-lawn.ply",
+    "color": [
+      0.44,
+      0.69,
+      0.51
+    ],
+    "texture": null,
+    "face_normals": false
+  },
+  {
+    "mesh": "meshes/real-soft-water.ply",
+    "color": [
+      0.32,
+      0.7,
+      0.84
+    ],
+    "texture": null,
+    "face_normals": false
+  }
+]
