@@ -2,8 +2,13 @@
 
 ## Install
 
-Install Python 3.12 x64 and an NVIDIA GPU driver, then run `setup.ps1` from the
-repository root. It creates `.venv` and installs the local application.
+Install Python 3.12 x64 (including the Python Launcher) and an NVIDIA GPU driver.
+Download the repository using **Code → Download ZIP**, extract the entire
+archive, and double-click `start.bat`. On the first run, it automatically
+creates `.venv`, installs dependencies over the Internet, and launches the app.
+Subsequent runs launch directly. An interrupted or failed installation is
+retried on the next launch. You can also run `setup.ps1` manually to reinstall
+the dependencies.
 `requirements-tested.txt` records versions in the working development runtime;
 setup uses these as constraints.
 

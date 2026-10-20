@@ -38,10 +38,15 @@ The stacked slices are samples of a 3D field, not a continuously solved volume. 
 
 The validated development environment is Windows with Python 3.12 (64-bit), an NVIDIA CUDA-capable GPU, and a working NVIDIA driver. Other platforms and CPU-only use have not been validated for this customized application.
 
+1. Install **Python 3.12 (64-bit)**, including the Python Launcher, and an NVIDIA GPU driver.
+2. Select **Code → Download ZIP** on the repository page and extract the entire archive.
+3. Double-click **`start.bat`** in the extracted folder. The first run creates the environment, installs dependencies over the Internet, and starts the application. Subsequent runs launch directly.
+
+Alternatively, download with Git:
+
 ```powershell
 git clone https://github.com/stevenyyzhang/Digital-Twin-Software.git
 cd Digital-Twin-Software
-powershell -NoProfile -ExecutionPolicy Bypass -File .\setup.ps1
 .\start.bat
 ```
 
@@ -69,6 +74,6 @@ Only referenced runtime assets and the OSM provenance extract are included. Inte
 
 Upstream application code is Apache-2.0; its license and copyright headers are preserved. See [LICENSE](LICENSE) and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md). Scene data has separate terms and is **not covered by the software license**. Each scene includes an `ASSET_LICENSE.md` notice. Official sources permit conditional redistribution. Preserve source, ownership and modification notices and comply with the applicable data terms when using these assets.
 
-Geometry and some terrain imagery derive from the Hong Kong SAR Government, Lands Department, [3D Visualisation Map](https://3d.map.gov.hk/). Campus auxiliary ground/road data includes © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), ODbL. The original OSM extract and complete derived support meshes are supplied with their [separate notice](polyu-stylized/ASSET_LICENSE.md). Processing includes coordinate conversion, cropping, mesh simplification, material grouping, texture conversion, recoloring, window styling and display normal processing. Each scene notice describes its applicable changes.
+Geometry and some terrain imagery derive from the Hong Kong SAR Government, Lands Department, [3D Visualisation Map](https://3d.map.gov.hk/), subject to the [official Terms and Conditions of Use](https://portal.csdi.gov.hk/csdi-webpage/doc/TNC). Campus auxiliary ground/road data includes © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright), ODbL. The original OSM extract and complete derived support meshes are supplied with their [separate notice](polyu-stylized/ASSET_LICENSE.md). Processing includes coordinate conversion, cropping, mesh simplification, material grouping, texture conversion, recoloring, window styling and display normal processing. Each scene notice describes its applicable changes.
 
 These assets are project-processed display versions, not unmodified official data or surveyed facade materials. Original ownership is retained. No government or university endorsement is claimed. Source links, terms and modification scope are provided in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and each scene's `ASSET_LICENSE.md`.

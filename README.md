@@ -38,10 +38,15 @@
 
 当前本地验证环境为 Windows、64 位 Python 3.12、支持 CUDA 的 NVIDIA 显卡及有效驱动。其他平台与纯 CPU 模式尚未针对本定制版本验证。
 
+1. 安装 **64 位 Python 3.12**（包含 Python Launcher）和 NVIDIA 显卡驱动。
+2. 点击仓库页面的 **Code → Download ZIP**，下载后完整解压。
+3. 双击解压目录中的 **`start.bat`**。首次运行会自动创建环境、联网安装依赖，然后启动软件；之后双击即可启动。
+
+也可以通过 Git 下载：
+
 ```powershell
 git clone https://github.com/stevenyyzhang/Digital-Twin-Software.git
 cd Digital-Twin-Software
-powershell -NoProfile -ExecutionPolicy Bypass -File .\setup.ps1
 .\start.bat
 ```
 
@@ -70,7 +75,7 @@ start.bat
 
 上游应用代码采用 Apache-2.0，原许可证及版权声明已保留，见 [LICENSE](LICENSE) 和 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。 **软件许可证不覆盖场景模型数据**；每个场景都有独立的 `ASSET_LICENSE.md`。官方来源允许附条件再分发；使用这些资产时请保留来源、版权及修改说明，并遵守对应数据条款。
 
-建筑几何及部分地形影像来自香港特别行政区政府地政总署，经 CSDI / Open3Dhk 发布。校园辅助地面、道路、绿地和水体包含 © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) 的 ODbL 数据。原始 OSM 提取文件及完整衍生辅助网格已附带，许可范围见 [校园数据声明](polyu-stylized/ASSET_LICENSE.md)。
+建筑几何及部分地形影像来自香港特别行政区政府地政总署，经 CSDI / Open3Dhk 发布，使用须遵守[官方使用条款](https://portal.csdi.gov.hk/csdi-webpage/doc/TNC)。校园辅助地面、道路、绿地和水体包含 © [OpenStreetMap contributors](https://www.openstreetmap.org/copyright) 的 ODbL 数据。原始 OSM 提取文件及完整衍生辅助网格已附带，许可范围见 [校园数据声明](polyu-stylized/ASSET_LICENSE.md)。
 
 本项目对源数据进行了坐标转换、区域裁剪、网格减面、材质分组、纹理转换、重新配色、窗带样式和显示法线处理。各场景的具体处理见其 `ASSET_LICENSE.md`。
 
